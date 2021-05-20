@@ -1,0 +1,18 @@
+.card,
+.btn,
+.form-control {
+  border-radius: 0 !important;
+}
+body {
+  background: #121212 !important;
+  color: ivory !important;
+}
+.card {
+  background-color: grey;
+} /* You can add global styles to this file, and also import other style files */
+
+td,
+table,
+th {
+  color: ivory !important;
+}
